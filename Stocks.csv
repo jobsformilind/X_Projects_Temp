@@ -1,4 +1,4 @@
 Broker,Symbol,B_Qty,B_Price,Last_Buy,Qty,Action,Money_Required,Future_Avg,Status,
 MP_Zerodha,ITCHOTELS,1,286.28,286,100,BUY,16890,170.06,A,
 MP_Zerodha,FCL,41,268.72,269,100,BUY,21840,233.03,A,
-MP_Zerodha,CLEAN,31,1,442.55,1482,2,BUY,2382,1427.30,A,
+MP_Zerodha,CLEAN,31,1442.55,1482,2,BUY,2382,1427.30,A,
