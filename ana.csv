@@ -1,6 +1,3 @@
-Broker,Symbol,B_Qty,B_Price,Last_Buy,Qty,Action,Money_Required,Future_Avg,Status,
-MP_Zerodha,CLEAN,31,1442.55,1482,2,BUY,2382,1427.30,A,
-MP_mStocks,DREAMFOLKS,100,266.12,266,10,BUY,2200,261.93,A,
-MP_Upstox,ASTRAL,8,1224.00,1224,5,BUY,6325,1239.79,A,
-MP_mStocks,BLSE,300,198.98,165,20,BUY,2954,195.78,A,
-
+Stocks Wachlist,
+LXCHEM
+KPIGREEN
