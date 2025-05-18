@@ -1,3 +1,5 @@
-Stocks Wachlist,
-LXCHEM
-KPIGREEN
+BROKER,Symbol,
+MP_Zerodha,AARTIIND,
+MP_Zerodha,LXCHEM,
+MP_mStocks,KPIGREEN,
+
