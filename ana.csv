@@ -6,20 +6,18 @@ MP_mStocks,EIEL,,
 MP_mStocks,EPACK,,
 MP_mStocks,PREMEXPLN,838856,
 MP_Zerodha,ASTRAL,,
-
-Other:
-LXCHEM
-PRINCEPIPE
-HNDFDS
-AFFLE
-CAMPUS
-ASTRAL
-TATATECH
-INDIGOPNTS
-CLEAN
-IEX
-DEEPAKNTR
-VBL
+,LXCHEM,Decide,
+,PRINCEPIPE,Decide,
+,HNDFDS,Decide,
+,AFFLE,Decide,
+,CAMPUS,Decide,
+,ASTRAL,Decide,
+,TATATECH,Decide,
+,INDIGOPNTS,Decide,
+,CLEAN,Decide,
+,IEX,Decide,
+,DEEPAKNTR,Decide,
+,VBL,Decide,
 
 
 
