@@ -1,7 +1,8 @@
 Links:
 https://chartink.com/screener/bharati-daily-eod-watch
 https://chartink.com/screener/bharati-weekly-eow-watch
-
+https://chartink.com/screener/bharati-monthly-eom-watch-buy
+https://chartink.com/screener/weekly-month-wavetrend-scan
 
 =IF($C3<>"",SUMPRODUCT($G3:$Q3>$D3,G$2:Q$2,$G3:$Q3),)
 =IF($R3>1, $S3/$R3,)
