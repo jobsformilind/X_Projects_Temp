@@ -1,3 +1,12 @@
 https://www.tradingview.com/script/bVV133Vd-Clean-Support-Resistance-Rejection-Strict-Filtering/
 https://www.tradingview.com/script/npbkJ6DD-MACD-Full-Titans-Invest/
+https://docs.google.com/spreadsheets/u/0/d/17urqXWUlercxNZ8FQm6wYkcGAXtXJymHdSIfGpAuBj4/htmlview?urp=gmail_link#
+
+Stocks:
+- TATATECH - MP_YesB	  TATATECH	57	914.53
+- TATATECH - MP_mStock	TATATECH	Fresh
+- MP_Zerodha	PNGJL	122	707.84
+- BSOFT   MP_mStock		Fresh
+
+
 
