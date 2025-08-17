@@ -1,6 +1,11 @@
+- mp_ms->838856
+- mp_ze->534811
+- mp_up->871844
+- bp_ze->556883
+=========================================================
 Links:
-Daily Imp (jobs.for.milind@gmail.com): https://chartink.com/screener/daily-watchlist-wt-lb-alerts
----------------------------------------------------------------------------
+Daily Imp (jobs): https://chartink.com/screener/daily-watchlist-wt-lb-alerts
+=========================================================
 Others screener:
 https://chartink.com/screener/bharati-daily-eod-watch
 https://chartink.com/screener/bharati-weekly-eow-watch
@@ -8,12 +13,11 @@ https://chartink.com/screener/bharati-monthly-eom-watch-buy
 https://chartink.com/screener/bharati-monthly-watch-buy
 https://chartink.com/screener/weekly-month-wavetrend-scan
 https://chartink.com/screener/ema20-crosses-above-ema-50
-
+=========================================================
 =IF($C3<>"",SUMPRODUCT($G3:$Q3>$D3,G$2:Q$2,$G3:$Q3),)
 =IF($R3>1, $S3/$R3,)
 =IF($T3<>"", ($E3-$T3)/$T3,)
 =IF(T3<>"", T3*1.05,)
-
-
-
+=========================================================
 https://photos.app.goo.gl/DfN1xTj7eACuHR3U8
+=========================================================
