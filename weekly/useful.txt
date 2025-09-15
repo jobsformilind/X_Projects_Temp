@@ -7,6 +7,9 @@ Links:
 Daily Imp (jobs): https://chartink.com/screener/daily-watchlist-wt-lb-alerts
 =========================================================
 Others screener:
+https://chartink.com/screener/weekly-watchlist-wt-lb-alerts
+https://chartink.com/screener/monthly-watchlist-wt-lb-alerts
+
 https://chartink.com/screener/bharati-daily-eod-watch
 https://chartink.com/screener/bharati-weekly-eow-watch
 https://chartink.com/screener/bharati-monthly-eom-watch-buy
